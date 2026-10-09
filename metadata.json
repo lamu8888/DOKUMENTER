@@ -1,0 +1,7 @@
+{
+  "name": "GARIS WALLACE: Mereka yang Bertahan",
+  "description": "Dokumenter 10 Menit & Storyboard Interaktif: Garis Wallace, biogeografi endemik Sulawesi, ancaman tambang nikel, dan perjuangan pelestarian burung Maleo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
